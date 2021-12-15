@@ -1,6 +1,6 @@
 # LaTeX renderer
 
-A handy tool to pre-render LaTeX-formatting into an SVG for it to be embedded in a Github .md-file
+A handy tool to pre-render LaTeX-formatting into an SVG for it to be embedded in a Github .md file.
 
 https://www.codecogs.com/latex/eqneditor.php
 
